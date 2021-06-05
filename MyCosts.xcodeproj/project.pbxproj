@@ -11,6 +11,20 @@
 		8C036F98262EC671007D7A01 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C036F97262EC671007D7A01 /* ContentView.swift */; };
 		8C036F9A262EC674007D7A01 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8C036F99262EC674007D7A01 /* Assets.xcassets */; };
 		8C036F9D262EC674007D7A01 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8C036F9C262EC674007D7A01 /* Preview Assets.xcassets */; };
+		8C4CAE512631E83A00CC1E3D /* Currency.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C4CAE502631E83A00CC1E3D /* Currency.swift */; };
+		8C72C76A2631F9970032BBB5 /* CategorySectionHeader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C72C7692631F9970032BBB5 /* CategorySectionHeader.swift */; };
+		8C72C76D2631FA800032BBB5 /* getCategoryIcon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C72C76C2631FA800032BBB5 /* getCategoryIcon.swift */; };
+		8C9CFF8C262ED497009455E0 /* NavigationImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C9CFF8B262ED497009455E0 /* NavigationImage.swift */; };
+		8C9CFF90262ED9BD009455E0 /* CostRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C9CFF8F262ED9BD009455E0 /* CostRow.swift */; };
+		8C9CFF93262EEB85009455E0 /* Common.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C9CFF92262EEB85009455E0 /* Common.swift */; };
+		8C9CFF97262EF626009455E0 /* AddView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C9CFF96262EF626009455E0 /* AddView.swift */; };
+		8C9CFF9A262EF7B7009455E0 /* ReportView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C9CFF99262EF7B7009455E0 /* ReportView.swift */; };
+		8CD483232631A22800EFED9D /* constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CD483222631A22800EFED9D /* constants.swift */; };
+		8CD483272631A3AF00EFED9D /* getCategoryColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CD483262631A3AF00EFED9D /* getCategoryColor.swift */; };
+		8CD4832A2631AA5700EFED9D /* TicketForm.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CD483292631AA5700EFED9D /* TicketForm.swift */; };
+		8CD4832D2631ABC300EFED9D /* DetailsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CD4832C2631ABC300EFED9D /* DetailsView.swift */; };
+		8CD483302631BCC300EFED9D /* TicketDetails.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CD4832F2631BCC300EFED9D /* TicketDetails.swift */; };
+		8CD483342631C38D00EFED9D /* DateFormatt.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CD483332631C38D00EFED9D /* DateFormatt.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +34,20 @@
 		8C036F99262EC674007D7A01 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8C036F9C262EC674007D7A01 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		8C036F9E262EC674007D7A01 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8C4CAE502631E83A00CC1E3D /* Currency.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Currency.swift; sourceTree = "<group>"; };
+		8C72C7692631F9970032BBB5 /* CategorySectionHeader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategorySectionHeader.swift; sourceTree = "<group>"; };
+		8C72C76C2631FA800032BBB5 /* getCategoryIcon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = getCategoryIcon.swift; sourceTree = "<group>"; };
+		8C9CFF8B262ED497009455E0 /* NavigationImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationImage.swift; sourceTree = "<group>"; };
+		8C9CFF8F262ED9BD009455E0 /* CostRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CostRow.swift; sourceTree = "<group>"; };
+		8C9CFF92262EEB85009455E0 /* Common.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Common.swift; sourceTree = "<group>"; };
+		8C9CFF96262EF626009455E0 /* AddView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddView.swift; sourceTree = "<group>"; };
+		8C9CFF99262EF7B7009455E0 /* ReportView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReportView.swift; sourceTree = "<group>"; };
+		8CD483222631A22800EFED9D /* constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = constants.swift; sourceTree = "<group>"; };
+		8CD483262631A3AF00EFED9D /* getCategoryColor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = getCategoryColor.swift; sourceTree = "<group>"; };
+		8CD483292631AA5700EFED9D /* TicketForm.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TicketForm.swift; sourceTree = "<group>"; };
+		8CD4832C2631ABC300EFED9D /* DetailsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsView.swift; sourceTree = "<group>"; };
+		8CD4832F2631BCC300EFED9D /* TicketDetails.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TicketDetails.swift; sourceTree = "<group>"; };
+		8CD483332631C38D00EFED9D /* DateFormatt.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DateFormatt.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,8 +80,14 @@
 		8C036F94262EC671007D7A01 /* MyCosts */ = {
 			isa = PBXGroup;
 			children = (
+				8CD483322631C37200EFED9D /* extensions */,
+				8CD483252631A39100EFED9D /* helpers */,
 				8C036F95262EC671007D7A01 /* MyCostsApp.swift */,
 				8C036F97262EC671007D7A01 /* ContentView.swift */,
+				8CD483222631A22800EFED9D /* constants.swift */,
+				8C4CAE532631E9F400CC1E3D /* modifiers */,
+				8C9CFF95262EF601009455E0 /* views */,
+				8C9CFF8A262ED469009455E0 /* structs */,
 				8C036F99262EC674007D7A01 /* Assets.xcassets */,
 				8C036F9E262EC674007D7A01 /* Info.plist */,
 				8C036F9B262EC674007D7A01 /* Preview Content */,
@@ -67,6 +101,54 @@
 				8C036F9C262EC674007D7A01 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		8C4CAE532631E9F400CC1E3D /* modifiers */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = modifiers;
+			sourceTree = "<group>";
+		};
+		8C9CFF8A262ED469009455E0 /* structs */ = {
+			isa = PBXGroup;
+			children = (
+				8C9CFF8B262ED497009455E0 /* NavigationImage.swift */,
+				8C9CFF8F262ED9BD009455E0 /* CostRow.swift */,
+				8C9CFF92262EEB85009455E0 /* Common.swift */,
+				8CD483292631AA5700EFED9D /* TicketForm.swift */,
+				8CD4832F2631BCC300EFED9D /* TicketDetails.swift */,
+				8C4CAE502631E83A00CC1E3D /* Currency.swift */,
+				8C72C7692631F9970032BBB5 /* CategorySectionHeader.swift */,
+			);
+			path = structs;
+			sourceTree = "<group>";
+		};
+		8C9CFF95262EF601009455E0 /* views */ = {
+			isa = PBXGroup;
+			children = (
+				8C9CFF96262EF626009455E0 /* AddView.swift */,
+				8CD4832C2631ABC300EFED9D /* DetailsView.swift */,
+				8C9CFF99262EF7B7009455E0 /* ReportView.swift */,
+			);
+			path = views;
+			sourceTree = "<group>";
+		};
+		8CD483252631A39100EFED9D /* helpers */ = {
+			isa = PBXGroup;
+			children = (
+				8CD483262631A3AF00EFED9D /* getCategoryColor.swift */,
+				8C72C76C2631FA800032BBB5 /* getCategoryIcon.swift */,
+			);
+			path = helpers;
+			sourceTree = "<group>";
+		};
+		8CD483322631C37200EFED9D /* extensions */ = {
+			isa = PBXGroup;
+			children = (
+				8CD483332631C38D00EFED9D /* DateFormatt.swift */,
+			);
+			path = extensions;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -138,8 +220,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8C9CFF8C262ED497009455E0 /* NavigationImage.swift in Sources */,
+				8C9CFF90262ED9BD009455E0 /* CostRow.swift in Sources */,
+				8C9CFF97262EF626009455E0 /* AddView.swift in Sources */,
+				8CD483342631C38D00EFED9D /* DateFormatt.swift in Sources */,
 				8C036F98262EC671007D7A01 /* ContentView.swift in Sources */,
+				8CD483272631A3AF00EFED9D /* getCategoryColor.swift in Sources */,
+				8C9CFF9A262EF7B7009455E0 /* ReportView.swift in Sources */,
+				8C72C76D2631FA800032BBB5 /* getCategoryIcon.swift in Sources */,
+				8CD4832D2631ABC300EFED9D /* DetailsView.swift in Sources */,
+				8C9CFF93262EEB85009455E0 /* Common.swift in Sources */,
+				8CD483302631BCC300EFED9D /* TicketDetails.swift in Sources */,
 				8C036F96262EC671007D7A01 /* MyCostsApp.swift in Sources */,
+				8CD483232631A22800EFED9D /* constants.swift in Sources */,
+				8C4CAE512631E83A00CC1E3D /* Currency.swift in Sources */,
+				8C72C76A2631F9970032BBB5 /* CategorySectionHeader.swift in Sources */,
+				8CD4832A2631AA5700EFED9D /* TicketForm.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
